@@ -1,0 +1,25 @@
+{
+  "name": "app-v3",
+  "version": "1.0.0",
+  "main": "app-v3.js",
+  "scripts": {
+    "start": "node app-v3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meyer",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  },
+  "description": "stuff",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmeyer29/Serve-Data-Separate-Repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmeyer29/Serve-Data-Separate-Repo/issues"
+  },
+  "homepage": "https://github.com/mmeyer29/Serve-Data-Separate-Repo#readme"
+}
